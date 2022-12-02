@@ -25,3 +25,6 @@ hs_err_pid*
 # Intellij
 *.iml
 .idea/
+
+# auto-generated java
+out/
